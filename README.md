@@ -1,4 +1,4 @@
-# bank-management-system
+# Bank-management-system
 
 Welcome to the Bank Account Management website, a user-friendly platform designed to help you manage your bank account. This project combines HTML, CSS, and JavaScript to create an interactive experience for users, featuring classes, switch statements, and try-catch-finally statements for enhanced functionality and error handling.
 
